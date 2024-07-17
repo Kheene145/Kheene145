@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Ilove poetry: I love to listening to them. I love AJR artists
+- ⚡ Fun fact: I love art
 
 <!---
 Kheene145/Kheene145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
