@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kheene145
-- 👀 I’m interested in ...
+- 👋 Hi, I'm Kheene
+- 👀 I’m interested in data scienec and machine learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...(not yet)
+- 📫 Reach me on X @ojiehekene_
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love art
 
