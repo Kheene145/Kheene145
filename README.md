@@ -1,10 +1,10 @@
-- 👋 Hi, I'm Kheene
+- 👋 Hey, I'm Ekene
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate.
+- 💞️ I'd love to collaborate on data analytic projects.
 - 📫 Reach me on X @ojiehekene_
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love art
+- ⚡ Fun fact: I love art and culture
 
 <!---
 Kheene145/Kheene145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
