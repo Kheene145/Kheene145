@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I'd love to collaborate on data analytic  and web3 projects.
-- 📫 Reach me on X ]() and on [LinkedIn](http://linkedin.com/in/ekene-ojieh-916694263)
+- 📫 Reach me on [X](https://x.com/ojiehekene_?s=11) and on [LinkedIn](http://linkedin.com/in/ekene-ojieh-916694263)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love art and culture
 
