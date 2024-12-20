@@ -1,5 +1,5 @@
-- 👋Hey, My name is Ekene Ojieh
-
+- ### Hi there, I'm Ekene Ojieh 👋
+- 
 - 👀 I’m data scientist that is passionate about machine learning
 - 🌱 I’m currently learning python
 - 💞️ I'm open to data science and web3 projects.
@@ -11,6 +11,8 @@
 
 ## Tech Stack
 <!---
+
+- ### Language
 Kheene145/Kheene145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
