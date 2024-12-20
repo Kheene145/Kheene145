@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I'm open to data science and web3 projects.
 - 📫 You can contact me on [X](https://x.com/ojiehekene_?s=11) and on [LinkedIn](http://linkedin.com/in/ekene-ojieh-916694263)
-- 📫 I write about Blockchain, marketing and Technology on [Medium](https://medium.com/@ojisis07)
+- 📫 I write about Blockchain, Marketing and Technology on [Medium](https://medium.com/@ojisis07)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love art and culture
 <!---
