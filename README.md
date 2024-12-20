@@ -1,5 +1,5 @@
 - ### Hi there, I'm Ekene Ojieh 👋
-- 
+- <!---
 - 👀 I’m data scientist that is passionate about machine learning
 - 🌱 I’m currently learning python
 - 💞️ I'm open to data science and web3 projects.
