@@ -6,7 +6,7 @@
 - 📫 You can contact me on [X](https://x.com/ojiehekene_?s=11) and on [LinkedIn](http://linkedin.com/in/ekene-ojieh-916694263)
 - 📫 I write about Blockchain, Marketing and Technology on [Medium](https://medium.com/@ojisis07)
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love art and culture
+- ⚡ Fun fact: I love art,poetry and culture
 <!---
 
 Kheene145/Kheene145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
