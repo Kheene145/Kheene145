@@ -1,7 +1,6 @@
 - ### Alo, I'm Ekene Ojieh 👋
 
 - 🌱 I’m data scientist that is passionate about machine learning
-- 🌱 I’m proficient python
 - 💞️ I'm open to data science and social projects.
 - 📫 You can contact me on [X](https://x.com/ojiehekene_?s=11) and on [LinkedIn](http://linkedin.com/in/ekene-ojieh-916694263)
 - 📫 Sometimes, I write on [Medium](https://medium.com/@ojisis07)
